@@ -12,3 +12,4 @@ if is_power_of_8(number):
     print(f"Yes, {number} is a power of 8.")
 else:
     print(f"No, {number} is not a power of 8.")
+    
